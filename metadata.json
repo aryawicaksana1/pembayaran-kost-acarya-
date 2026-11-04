@@ -1,0 +1,8 @@
+{
+  "name": "Remix KostPay - Pembayaran \u0026 Jadwal Kost",
+  "description": "Aplikasi pembayaran sewa kost, tagihan listrik pulsa kWh, jadwal pemeliharaan fasilitas \u0026 servis AC, terhubung ke WhatsApp dan Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
